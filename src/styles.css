@@ -1,0 +1,35 @@
+.app{
+    text-align: center;
+    background-image: url("https://www.nawpic.com/media/2020/nice-nawpic-3-e1609104539214.jpg");
+    height: auto;
+  width: auto;
+}
+
+  
+  
+  
+  .nav-bar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+
+  }
+  button {
+    width: 100px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 1.1em;
+  }
+  .home {
+    text-align: center;
+    color: blue;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+
+  }
+ 
+  
